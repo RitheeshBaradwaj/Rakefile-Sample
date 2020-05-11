@@ -1,10 +1,10 @@
 pipeline {
   agent any
   stages {    
-    stage('Running ShellScript') {
+    stage('Running Script') {
       steps {
         echo '********* Running Script Stage Started **********'
-        sh 'rake'
+        bat 'rake'
         echo '********* Running Script Stage Finished **********'
         }
     }
