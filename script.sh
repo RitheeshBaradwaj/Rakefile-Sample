@@ -27,7 +27,8 @@ echo -en "";
 echo "$(tput setaf 2)          http://ritheeshbaradwaj.github.io/";
 echo "$(tput setaf 1)";
 
-read -p '          Press ENTER' uservar;
+#read -p '          Press ENTER' uservar;
+sleep 5s;
 
 
 clear;
@@ -38,7 +39,8 @@ echo "$(tput setaf 4)";
 echo -en "          Meme Generator using AI";
 echo "$(tput setaf 2)          https://developers-cosmos.github.io/Meme-Generator/";
 echo "$(tput setaf 1)";
-read -p '          Press ENTER' uservar;
+#read -p '          Press ENTER' uservar;
+sleep 5s;
 
 
 clear;
@@ -48,7 +50,8 @@ echo "$(tput setaf 2)          https://ritheeshbaradwaj.github.io/JenkinsPipelin
 echo "$(tput setaf 4)";
 echo "$(tput setaf 1)";
 
-read -p '          Press ENTER' uservar;
+#read -p '          Press ENTER' uservar;
+sleep 5s;
 
 
 clear;
@@ -58,7 +61,8 @@ echo "$(tput setaf 2)          https://developers-cosmos.github.io/COVID19-Feedb
 echo "$(tput setaf 4)";
 echo "$(tput setaf 1)";
 
-read -p '          Press ENTER' uservar;
+#read -p '          Press ENTER' uservar;
+sleep 5s;
 
 
 clear;
@@ -68,7 +72,8 @@ echo "$(tput setaf 2)          https://ritheeshbaradwaj.github.io/GitLearn/";
 echo "$(tput setaf 4)";
 echo "$(tput setaf 1)";
 
-read -p '          Press ENTER' uservar;
+#read -p '          Press ENTER' uservar;
+sleep 5s;
 
 
 clear;
