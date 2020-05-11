@@ -2,7 +2,7 @@ require 'fileutils'
 
 desc 'executing a script'
 task :run_command do
-    sh "./script.sh" do |ok, res|
+    sh "powershell.exe ./script.ps1" do |ok, res|
         if ! ok
             puts "Something went wrong (status = #{res.exitstatus})"
         end
