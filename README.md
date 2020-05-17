@@ -1,1 +1,2 @@
-# sample-rakefile
+# Sample-Rakefile
+Here we have Jenkinsfile, Rakefile and a shell script. In Jenkinsfile we have defined a pipeline or a stage to execute a rake task. This rake task is written in Rakefile. Our Rakefile is going to execute Shell script.
